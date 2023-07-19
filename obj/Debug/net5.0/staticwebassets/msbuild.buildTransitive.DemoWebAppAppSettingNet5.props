@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DemoWebAppAppSettingNet5.props" />
+</Project>
